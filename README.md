@@ -29,7 +29,7 @@
 - 🔍 I love solving **real-world problems using data-driven solutions**
 - 🤖 Currently learning **advanced AI technologies and modern ML frameworks**
 - 💡 Always exploring new tools and technologies to improve my skills
-- - 📫 How to reach me **nahiankabir1030@gmail.com**
+- 📫 How to reach me **nahiankabir1030@gmail.com**
 
 ---
 
