@@ -81,13 +81,7 @@
 
 
 
-## 📊 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nahiankabir&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
 
 <div align="center">
 
