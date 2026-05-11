@@ -1,12 +1,12 @@
 <!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
 <!-- Animated Typing Name -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Nahian+Kabir+Siam" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Nahian+Kabir+Siam;Data+Science+%7C+AI+Enthusiast;Machine+Learning+Explorer" alt="Typing SVG" />
 </a>
 
+</div>
 <!-- Professional Headline -->
 <h3>💻 CSE Student | 📊 Data Analyst | 🧠 Data Science Enthusiast | 🤖 AI & Machine Learning Explorer</h3>
 
