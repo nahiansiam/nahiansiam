@@ -59,16 +59,6 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
-
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nahiansiam&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
 
 
@@ -80,6 +70,16 @@
 </div>
 
 ---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nahiansiam&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
 
 ## 📊 Contribution Graph
 
@@ -110,15 +110,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-### 💬 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling" width="100%" />
 
@@ -126,11 +118,3 @@
 
 </div>
 
-
-<!-- ===================== FOOTER ===================== -->
-
-<div align="center">
-
-⭐ *"Turning Data into Intelligence & Ideas into Reality"* ⭐
-
-</div>
