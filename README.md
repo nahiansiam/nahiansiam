@@ -89,17 +89,18 @@
 
 ---
 
-
 <div align="center">
 
 <a href="https://linkedin.com/in/nahiankabir" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://kaggle.com/nahiankabir" target="_blank">
+
+<a href="https://www.kaggle.com/nahiankabirsiam" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
-<a href="https://facebook.com/nahiankabir" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+
+<a href="https://www.fiverr.com/nahian_siam_/buying?source=avatar_menu_profile" target="_blank">
+  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
 </a>
 
 </div>
