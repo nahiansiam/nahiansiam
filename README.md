@@ -7,15 +7,14 @@
 </a>
 
 </div>
-<!-- Professional Headline -->
-<h3>💻 CSE Student | 📊 Data Analyst | 🧠 Data Science Enthusiast | 🤖 AI & Machine Learning Explorer</h3>
 
-</div>
+<h3 align="center">
+💻 CSE Student | 📊 Data Analyst | 🧠 Data Science Enthusiast | 🤖 AI & Machine Learning Explorer
+</h3>
 
 ---
 
 <!-- ===================== INTRO IMAGE ===================== -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="700" />
 </p>
@@ -24,14 +23,15 @@
 
 ## 🚀 About Me
 
-- 🎓 I am a **Computer Science & Engineering (CSE) student**
-- 📊 Passionate about **Data Science, Machine Learning, Deep Learning, and Artificial Intelligence**
-- 🔍 I love solving **real-world problems using data-driven solutions**
-- 🤖 Currently learning **advanced AI technologies and modern ML frameworks**
-- 💡 Always exploring new tools and technologies to improve my skills
-- 📫 How to reach me **nahiankabir1030@gmail.com**
+- 🎓 Computer Science & Engineering (CSE) student  
+- 📊 Passionate about Data Science, ML, DL & AI  
+- 🔍 Love solving real-world problems using data  
+- 🤖 Currently learning advanced AI & ML frameworks  
+- 💡 Always exploring new technologies  
+- 📫 Email: **nahiankabir1030@gmail.com**
 
 ---
+
 ## 🧠 Skills
 
 ### 💻 Programming Languages
@@ -49,15 +49,13 @@
   <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-### 📊 Data Science & AI
+### 📊 AI / Data Science
 <p>
-  <img src="https://img.shields.io/badge/Python%20Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-4CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
 </p>
 
 ### 🌐 Frameworks & Tools
@@ -66,55 +64,49 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
 
-### 🎨 Design & Creative Tools
-<p>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-</p>
-
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nahiankabir&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nahiansiam&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahiansiam&theme=tokyonight&hide_border=true"/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=nahiansiam&show_icons=true&theme=tokyonight"/>
+
 </div>
 
+---
 
-
-
+## 🌐 Connect With Me
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/nahian-kabir-siam-4437b3385/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-<a href="https://www.kaggle.com/nahiankabirsiam" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+<a href="https://www.linkedin.com/in/nahian-kabir-siam-4437b3385/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.fiverr.com/nahian_siam_/buying?source=avatar_menu_profile" target="_blank">
-  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+<a href="https://www.kaggle.com/nahiankabirsiam">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://www.fiverr.com/nahian_siam_/buying?source=avatar_menu_profile">
+  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
 </a>
 
 </div>
 
+---
 
-
+<!-- ===================== FOOTER ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling" width="100%" />
 
-**⭐ Star some repositories if you find them helpful!**
-
-</div>
-
+<p align="center"><b>⭐ Star my repositories if you like my work!</b></p>
